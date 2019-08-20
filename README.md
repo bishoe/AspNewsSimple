@@ -1,0 +1,2 @@
+# AspNewsSimple
+AspNewsSimple-arabic
